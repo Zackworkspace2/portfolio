@@ -1,5 +1,8 @@
 # Zakariya Samuel — portfolio
 
+Live: **https://portfolio-vert-eta-scbbxei295.vercel.app**
+Repo: **https://github.com/Zackworkspace2/portfolio**
+
 A hand-built portfolio for a WordPress and WooCommerce developer. Static HTML, CSS and a little JavaScript. No build step, no framework, no Canva.
 
 ## Preview
