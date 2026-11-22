@@ -1,0 +1,10 @@
+# local review assets, not part of the site
+review/
+
+# local tooling
+.ghconfig/
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
