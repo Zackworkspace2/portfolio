@@ -1,0 +1,6 @@
+review/
+.git/
+.ghconfig/
+scripts/
+README.md
+netlify.toml

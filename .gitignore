@@ -3,8 +3,11 @@ review/
 
 # local tooling
 .ghconfig/
+.vercel/
 
 # OS junk
 .DS_Store
 Thumbs.db
 *.log
+
+.vercel
